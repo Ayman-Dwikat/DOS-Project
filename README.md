@@ -1,2 +1,2 @@
-# DOS_Project_Part1
-DOS Project Part1 Code and Report
+# DOS_Project
+DOS Project Code and Report
